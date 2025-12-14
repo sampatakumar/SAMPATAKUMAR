@@ -205,4 +205,8 @@ with a strong focus on <b>clean UI, performance & UX</b>.
 
 
 <!-- ================== WAVE FOOTER ================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:020617&height=120&section=footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:020617&height=130&section=footer"
+/>
+
