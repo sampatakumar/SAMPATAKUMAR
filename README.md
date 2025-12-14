@@ -1,43 +1,149 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sampatakumar V<br><br>🎓 Computer Science Student | 💻 Frontend / Full-Stack Developer  <br>📍 Bengaluru, India  <br><br>I am a passionate developer focused on building responsive, scalable, and user-friendly web applications. I enjoy working with modern web technologies and developing real-world projects that strengthen my frontend and full-stack skills.<br><br>---<br><br>## 🧠 About Me<br><br>- 🔭 Currently working on React and full-stack web applications  <br>- 🌱 Learning advanced React concepts and backend integration  <br>- 👨‍💻 Hands-on experience with Firebase Authentication and MongoDB  <br>- 💬 Ask me about HTML, CSS, JavaScript, React  <br>- 🎯 Career goal: Software / Frontend / Full-Stack Developer  <br>- 📫 Reach me at: wlcmdevilworld@gmail.com 
+<!-- ===== Glassmorphism Header ===== -->
+<h1 align="center">Hi 👋, I'm Sampatakumar V</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7DD3FC&size=22&center=true&vCenter=true&width=650&lines=Frontend+%2F+Full-Stack+Developer;React+%7C+JavaScript+%7C+Firebase;Clean+UI+%7C+Scalable+Apps;Always+Learning+%26+Building" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576910777356&ref=pl_edit_ig_profile_ac) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sampatakumar_sv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sampatakumar-sv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wlcmdevilworld@gmail.com) 
+<p align="center">
+  🎓 Computer Science Student &nbsp;•&nbsp; 📍 Bengaluru, India
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAMPATAKUMAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAMPATAKUMAR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATAKUMAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAMPATAKUMAR&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<!-- ===== Glass Card: About ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px;">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 💫 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SAMPATAKUMAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build **responsive, scalable, and user-friendly web applications** with a strong focus on **clean UI and performance**.  
+I enjoy turning ideas into real-world products using modern web technologies.
 
----
-[![](https://visitcount.itsvg.in/api?id=SAMPATAKUMAR&icon=6&color=0)](https://visitcount.itsvg.in)
+- 🔭 React & Full-Stack Web Apps  
+- 🌱 Advanced React & backend integration  
+- 👨‍💻 Firebase Authentication & MongoDB  
+- 💬 HTML, CSS, JavaScript, React  
+- 🎯 Goal: Software / Frontend / Full-Stack Developer  
+- 📫 **wlcmdevilworld@gmail.com**
 
- <br><br>---<br><br>⭐️ Thank you for visiting my profile!<br>
+</td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**SAMPATAKUMAR/SAMPATAKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- ===== Glass Card: Connect ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 16px; text-align:center;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+
+<a href="https://www.instagram.com/sampatakumar_sv/">
+  <img src="https://img.shields.io/badge/Instagram-0b1220?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="https://www.linkedin.com/in/sampatakumar-sv/">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:wlcmdevilworld@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== Glass Card: Tech Stack ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,firebase,socketio,supabase,git,github,vercel,netlify,figma&theme=dark&perline=6" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== Glass Card: Projects ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/SAMPATAKUMAR/TO-DO-LIST">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=TO-DO-LIST&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/SAMPATAKUMAR/CARD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=CARD&theme=dark&hide_border=true" />
+</a>
+
+<p>🔹 React • Firebase • MongoDB • Clean UI</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== Glass Card: Stats ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+
+## 📊 GitHub Stats
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SAMPATAKUMAR&show_icons=true&theme=dark&hide_border=true" />
+<br/>
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=SAMPATAKUMAR&theme=dark&hide_border=true" />
+<br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATAKUMAR&layout=compact&theme=dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== Glass Card: Snake ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== Glass Card: Quote ===== -->
+<table align="center" width="100%">
+<tr>
+<td style="background: rgba(255,255,255,0.06); backdrop-filter: blur(12px); border-radius: 14px; padding: 18px; text-align:center;">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SAMPATAKUMAR&icon=5&color=6"/>
+</p>
+
+<!-- ===== Glass Wave Footer ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:020617&height=120&section=footer"/>
