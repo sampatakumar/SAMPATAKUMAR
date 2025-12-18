@@ -117,7 +117,7 @@ with a strong focus on <b>clean UI, performance & UX</b>.
 <a href="https://github.com/SAMPATAKUMAR/TO-DO-LIST">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=TO-DO-LIST&theme=dark&hide_border=true" />
 </a>
-<a href="https://github.com/SAMPATAKUMAR/CARD">
+<a href="https://github.com/SAMPATAKUMAR/Full-stack-event">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMPATAKUMAR&repo=CARD&theme=dark&hide_border=true" />
 </a>
 
