@@ -1,25 +1,37 @@
-<!-- ================== AVATAR (SYNCED WITH GITHUB PROFILE) ================== -->
-<p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/SAMPATAKUMAR?size=300"
-    width="160"
-    alt="Sampatakumar V"
-    style="
-      border-radius:500px;
-      border:3px solid #38bdf8;
-      box-shadow:0 0 25px rgba(56,189,248,0.6);
-    "
-  />
-</p>
+<!-- ================== AVATAR (GITHUB SAFE + STYLED) ================== -->
+<table align="center">
+<tr>
+<td align="center"
+style="
+  background:#020617;
+  border-radius:50%;
+  padding:8px;
+  border:3px solid #38bdf8;
+  box-shadow:0 0 30px rgba(56,189,248,0.7);
+">
+
+<img
+  src="https://avatars.githubusercontent.com/SAMPATAKUMAR?size=300"
+  width="160"
+  alt="Sampatakumar V"
+  style="border-radius:50%;"
+/>
+
+</td>
+</tr>
+</table>
 
 <!-- ================== HERO ================== -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#38bdf8;">Sampatakumar V</span>
 </h1>
-
-<p align="center" style="font-size:18px; color:#38bdf8;">
-  Clean UI | Scalable Apps | Always Learning & Building
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Clean+UI;Scalable+Apps;Always+Learning+%26+Building"
+    alt="Animated tagline"
+  />
 </p>
+
 
 <p align="center">
   🎓 Computer Science Student &nbsp;•&nbsp; 📍 Bengaluru, India
