@@ -1,44 +1,43 @@
-<!-- ================== AVATAR ================== -->
+<!-- ================== AVATAR (SYNCED WITH GITHUB) ================== -->
 <p align="center">
-  <svg width="190" height="190" viewBox="0 0 190 190">
-    <defs>
-      <linearGradient id="ringGradient" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#38bdf8"/>
-        <stop offset="50%" stop-color="#0ea5e9"/>
-        <stop offset="100%" stop-color="#38bdf8"/>
-      </linearGradient>
-    </defs>
+<svg width="190" height="190" viewBox="0 0 190 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
 
-    <circle
-      cx="95"
-      cy="95"
-      r="80"
-      fill="none"
-      stroke="url(#ringGradient)"
-      stroke-width="4"
-      stroke-dasharray="8 10">
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 95 95"
-        to="360 95 95"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </circle>
+  <circle
+    cx="95"
+    cy="95"
+    r="80"
+    fill="none"
+    stroke="url(#ringGradient)"
+    stroke-width="4"
+    stroke-dasharray="8 10">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 95 95"
+      to="360 95 95"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </circle>
 
-    <clipPath id="clipCircle">
-      <circle cx="95" cy="95" r="68"/>
-    </clipPath>
+  <clipPath id="clipCircle">
+    <circle cx="95" cy="95" r="68"/>
+  </clipPath>
 
-    <image
-      href="https://i.ibb.co/mVnYBYb4/avatar.jpg"
-      x="27"
-      y="27"
-      width="136"
-      height="136"
-      clip-path="url(#clipCircle)"
-    />
-  </svg>
+  <image
+    href="https://avatars.githubusercontent.com/SAMPATAKUMAR?size=300"
+    x="27"
+    y="27"
+    width="136"
+    height="136"
+    clip-path="url(#clipCircle)"/>
+</svg>
 </p>
 
 <!-- ================== HERO ================== -->
@@ -125,7 +124,7 @@ with strong focus on <b>UI/UX, performance & clean architecture</b>.
   </a>
 </p>
 
-<!-- ================== TECH ================== -->
+<!-- ================== TECH STACK ================== -->
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
