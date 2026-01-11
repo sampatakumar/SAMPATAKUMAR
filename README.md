@@ -14,7 +14,7 @@ style="
   src="https://avatars.githubusercontent.com/SAMPATAKUMAR?size=300"
   width="160"
   alt="Sampatakumar V"
-  style="border-radius:50%;"
+  style="border-radius:50%; align-item:center;"
 />
 
 </td>
