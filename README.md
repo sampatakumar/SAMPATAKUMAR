@@ -59,12 +59,18 @@ You can find my work across my GitHub repositories.
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=sampatakumar&theme=glow&format=png" alt="GitHub Achievements" width="400">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=sampatakumar&theme=radical&no-frame=true" alt="GitHub Trophies" width="800">
+  <img src="https://github-readme-stats.vercel.app/api?username=sampatakumar&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=sampatakumar&theme=radical" alt="GitHub Trophies" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=sampatakumar" alt="GitHub Achievements" />
 </div>
 
 ---
