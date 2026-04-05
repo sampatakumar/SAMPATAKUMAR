@@ -2,7 +2,7 @@
 
 # Sampatakumar S V
 
-Sampatakumar S V is a Frontend and Full-Stack Developer from Bengaluru, India.
+Sampatakumar S V is a Frontend and MERN Stack Developer from Bengaluru, India.
 He specializes in building modern, responsive, and scalable web applications
 using React, JavaScript, and full-stack technologies with a strong focus on
 clean UI, performance, and user experience.
@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/sampatakumar-sv/
 ## About Me
 
 I am Sampatakumar S V, a Computer Science student and frontend-focused
-full-stack developer. I enjoy building real-world web applications that are
+MERN stack developer. I enjoy building real-world web applications that are
 cleanly designed, performance-oriented, and easy to maintain.
 
 My primary interests include modern frontend development, scalable web
@@ -51,7 +51,7 @@ architecture, and building practical products using current web standards.
 
 ## Projects
 
-I actively work on frontend and full-stack projects, including:
+I actively work on frontend and MERN stack projects, including:
 - React-based web applications
 - UI components and design systems
 - Browser extensions
