@@ -23,4 +23,3 @@
 ![Connect with sampatakumar](https://coolreadme.xyz/api/social-card?user=sampatakumar&title=Let's%20talk&sub=DMs%20open&skills=javascript%2Ctypescript&style=instagram)
 
 
-<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/sampatakumar) — one-click GitHub README cards.</sub>
