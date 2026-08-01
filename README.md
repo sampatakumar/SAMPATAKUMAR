@@ -13,7 +13,3 @@
 ![owl streak](https://coolreadme.xyz/api/owl-card?user=sampatakumar)
 
 
-### Currently
-
-[![SAMPATAKUMAR netflix-style card](https://coolreadme.xyz/api/netflix-card?title=SAMPATAKUMAR&synopsis=A%20little%20bit%20about%20me&genre=Open%20Source&match=98&rating=PG&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148532254%3Fv%3D4&user=sampatakumar&style=poster)](https://github.com/sampatakumar/SAMPATAKUMAR)
-
