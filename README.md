@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=sampatakumar&title=sampatakumar&subtitle=sampatakumar%20%7C%20Frontend%20Developer%20%7C%20React%2C%20JavaScript%2C%20Web%20UI&theme=dark"><img alt="sampatakumar hero" src="https://coolreadme.xyz/api/hero-banner?user=sampatakumar&title=sampatakumar&subtitle=sampatakumar%20%7C%20Frontend%20Developer%20%7C%20React%2C%20JavaScript%2C%20Web%20UI&theme=light"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=sampatakumar&lines=sampatakumar%7CBased%20in%20Bengaluru%7CWorking%20at%20Rajiv%20Gandhi%20Institute%20Of%20Technology%2C%7Cgithub.com%2Fsampatakumar&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=sampatakumar&lines=sampatakumar%7CBased%20in%20Bengaluru%7CWorking%20at%20Rajiv%20Gandhi%20Institute%20Of%20Technology%2C%7Cgithub.com%2Fsampatakumar&theme=light"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=sampatakumar&lines=sampatakumar%7CBased%20in%20Bengaluru%7CStudying%20at%20Rajiv%20Gandhi%20Institute%20Of%20Technology%2C%7Cgithub.com%2Fsampatakumar&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=sampatakumar&lines=sampatakumar%7CBased%20in%20Bengaluru%7CWorking%20at%20Rajiv%20Gandhi%20Institute%20Of%20Technology%2C%7Cgithub.com%2Fsampatakumar&theme=light"></picture>
 
 ### Featured projects
 
