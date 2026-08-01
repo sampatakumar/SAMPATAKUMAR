@@ -12,7 +12,6 @@
 
 ![owl streak](https://coolreadme.xyz/api/owl-card?user=sampatakumar)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/wakatime-card?user=sampatakumar&theme=dark"><img alt="sampatakumar coding time" src="https://coolreadme.xyz/api/wakatime-card?user=sampatakumar&theme=light"></picture>
 
 ### Currently
 
