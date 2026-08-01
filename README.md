@@ -17,8 +17,3 @@
 
 [![SAMPATAKUMAR netflix-style card](https://coolreadme.xyz/api/netflix-card?title=SAMPATAKUMAR&synopsis=A%20little%20bit%20about%20me&genre=Open%20Source&match=98&rating=PG&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F148532254%3Fv%3D4&user=sampatakumar&style=poster)](https://github.com/sampatakumar/SAMPATAKUMAR)
 
-### Connect
-
-![Connect with sampatakumar](https://coolreadme.xyz/api/social-card?user=sampatakumar&title=Let's%20talk&sub=DMs%20open&skills=javascript%2Ctypescript&style=instagram)
-
-
