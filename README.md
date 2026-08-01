@@ -1,31 +1,40 @@
 # 👋 Hi, I'm Sampatakumar S V
 
-🚀 **Frontend & MERN Stack Developer** from Bengaluru, India  
-🎓 Computer Science Engineering Student | Passionate about building modern, scalable, and responsive web applications  
+🚀 Frontend & MERN Stack Developer | Bengaluru, India  
+🎓 Computer Science Engineering Student  
 
 ---
 
-## 💡 What I Do
-- Build **frontend apps** with React & TypeScript  
-- Develop **full‑stack projects** using Node.js, Express, MongoDB  
-- Create **responsive, accessible UIs** with TailwindCSS & Figma  
-- Experiment with **browser extensions** and UI‑focused tools  
-- Continuously learn and apply modern web technologies  
+## 💡 About Me
+I build **modern, responsive, and scalable web applications** with a focus on clean UI, performance, and user experience.  
+I enjoy turning ideas into practical products using current web standards.
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** React, TypeScript, HTML5, CSS3, TailwindCSS, Vite  
-**Backend:** Node.js, Express.js, MongoDB, Firebase  
-**Tools:** Git, GitHub Actions, Netlify, Vercel, Render  
-**UI/UX:** Figma, Responsive Design  
+## 🛠️ Skills
+- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Vite  
+- **Backend:** Node.js, Express.js, MongoDB, Firebase  
+- **Tools:** Git, GitHub Actions, Netlify, Vercel, Render  
+- **UI/UX:** Figma, Responsive Design  
+
+---
+
+## 📂 Projects
+I actively work on:
+- ⚛️ React-based web applications  
+- 🎨 UI components & design systems  
+- 🔌 Browser extensions  
+- 📚 Personal and academic projects  
+
+👉 Explore my repositories for more!
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sampatakumar&theme=radical&show_icons=true)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=sampatakumar&theme=radical)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatakumar&theme=radical&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sampatakumar&show_icons=true&theme=github_dark&cache_seconds=86400)  
+![Streak](https://streak-stats.demolab.com/?user=sampatakumar&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampatakumar&layout=compact&theme=github_dark&cache_seconds=86400)
 
 ---
 
@@ -38,7 +47,7 @@
 ---
 
 ## 📍 Location
-Bengaluru, India  
+📌 Bengaluru, India  
 
 ---
 
