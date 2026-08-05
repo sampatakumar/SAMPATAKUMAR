@@ -1,15 +1,36 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=sampatakumar&title=sampatakumar&subtitle=sampatakumar%20%7C%20Frontend%20Developer%20%7C%20React%2C%20JavaScript%2C%20Web%20UI&theme=dark"><img alt="sampatakumar hero" src="https://coolreadme.xyz/api/hero-banner?user=sampatakumar&title=sampatakumar&subtitle=sampatakumar%20%7C%20Frontend%20Developer%20%7C%20React%2C%20JavaScript%2C%20Web%20UI&theme=light"></picture>
+<div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=sampatakumar&lines=sampatakumar%7CBased%20in%20Bengaluru%7CStudying%20at%20Rajiv%20Gandhi%20Institute%20Of%20Technology%2C%7Cgithub.com%2Fsampatakumar&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=sampatakumar&lines=sampatakumar%7CBased%20in%20Bengaluru%7CWorking%20at%20Rajiv%20Gandhi%20Institute%20Of%20Technology%2C%7Cgithub.com%2Fsampatakumar&theme=light"></picture>
+<h3><code>sampatakumar@github ~ $ whoami</code></h3>
 
-### Featured projects
+<table>
+<tr>
+<td width="42%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="sampatakumar portrait" />
+</picture></td>
+<td width="58%" valign="top"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=dark" width="100%" alt="sampatakumar wordmark" />
+</picture></td>
+</tr>
+</table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/projects-gallery?user=sampatakumar&projects=SAMPATAKUMAR%7CA%2Blittle%2Bbit%2Babout%2Bme%7C%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FSAMPATAKUMAR%3B%3BResumeAI%7CResumeAI%2Bis%2Ban%2BAI-powered%2Bfull-stack%2Bcareer%2Bplatform%2Bthat%2Benables%2Busers%2Bto%2Bmaintain%2Ba%2Bmas%E2%80%A6%7CTypeScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FResumeAI%3B%3BRgitx-website%7C%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FRgitx-website%3B%3BSmart-Skill-Hub%7C%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FSmart-Skill-Hub%3B%3Bf2f-friend-friend-%7C%7CTypeScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2Ff2f-friend-friend-%3B%3BRgitx-vite-project%7C%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FRgitx-vite-project&theme=dark"><img alt="Featured projects" src="https://coolreadme.xyz/api/projects-gallery?user=sampatakumar&projects=SAMPATAKUMAR%7CA%2Blittle%2Bbit%2Babout%2Bme%7C%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FSAMPATAKUMAR%3B%3BResumeAI%7CResumeAI%2Bis%2Ban%2BAI-powered%2Bfull-stack%2Bcareer%2Bplatform%2Bthat%2Benables%2Busers%2Bto%2Bmaintain%2Ba%2Bmas%E2%80%A6%7CTypeScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FResumeAI%3B%3BRgitx-website%7C%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FRgitx-website%3B%3BSmart-Skill-Hub%7C%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FSmart-Skill-Hub%3B%3Bf2f-friend-friend-%7C%7CTypeScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2Ff2f-friend-friend-%3B%3BRgitx-vite-project%7C%7CJavaScript%7C1%7Chttps%3A%2F%2Fgithub.com%2Fsampatakumar%2FRgitx-vite-project&theme=light"></picture>
+<p><b>sampatakumar | Frontend Developer | React, JavaScript, Web UI
+</b></p>
 
-### Stats
+<p><a href="https://github.com/sampatakumar">GitHub</a> &nbsp;·&nbsp; <a href="https://sampatakumar.github.io/">Website</a></p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/stats-card?user=sampatakumar&theme=dark"><img alt="sampatakumar GitHub stats" src="https://coolreadme.xyz/api/stats-card?user=sampatakumar&theme=light"></picture>
+</div>
 
-![owl streak](https://coolreadme.xyz/api/owl-card?user=sampatakumar)
+<div align="center">
 
+<h3><code>sampatakumar@github ~ $ ./contributions.sh</code></h3>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sampatakumar&theme=aurora&style=terminal&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="sampatakumar heatmap" />
+</picture>
+
+</div>
+
+<p align="center"><sub>sampatakumar · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
