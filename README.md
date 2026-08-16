@@ -4,67 +4,123 @@
 
 <table>
 <tr>
-<td width="42%" valign="top"><picture>
+<td width="42%" valign="top">
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="sampatakumar portrait" />
-</picture></td>
-<td width="58%" valign="top"><picture>
+  <img src="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="Sampatakumar portrait" />
+</picture>
+</td>
+
+<td width="58%" valign="top">
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=dark" width="100%" alt="sampatakumar wordmark" />
-</picture></td>
+  <img src="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=dark" width="100%" alt="Sampatakumar wordmark" />
+</picture>
+</td>
 </tr>
 </table>
-<hr>
 
-# Hi, I'm Sampatakumar 👋
+<p>
+  <a href="https://github.com/sampatakumar">
+    <img src="https://img.shields.io/badge/GitHub-sampatakumar-181717?style=flat&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/sampatakumar-sv">
+    <img src="https://img.shields.io/badge/LinkedIn-Sampatakumar-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-I'm a **Computer Science student** interested in building practical software projects and improving my skills through hands-on development.
+</div>
 
-## About Me
+---
 
-* 🎓 Computer Science student
-* 💻 Focused on **Full Stack Web Development**
-* ⚛️ Working with **React.js, JavaScript, HTML, CSS, Node.js, Express.js, and MongoDB**
-* 📱 Exploring **React Native** for mobile application development
-* 🤖 Interested in **AI/ML and local AI tools**
-* 🛠️ Building academic and personal projects to improve my development skills
-* 📚 Currently learning and strengthening my knowledge from fundamentals to advanced concepts
+## 👨‍💻 About
 
-## Projects
+I'm a **Computer Science student** focused on **Full Stack Development**.
 
-Some areas I work on:
+I build practical web applications, student-focused platforms, and AI-powered projects while continuously improving my understanding of software development.
 
-* **Smart Skill Hub** — A learning platform for students with resources, coding practice, and learning features.
-* **ResumeAI** — An AI-based project focused on helping users create and improve resumes.
-* **Student Community Projects** — Platforms for students to share notes, resources, and communicate.
-* **Full Stack Applications** — MERN-based applications with authentication, APIs, databases, and modern UI.
-* **AI & Local LLM Projects** — Exploring tools such as Ollama and locally running AI models.
+My main interests are **frontend development, backend systems, databases, mobile applications, and AI integration**.
 
-## Technologies
+---
+
+## 🛠️ Technologies
+
+| Area               | Technologies                    |
+| ------------------ | ------------------------------- |
+| **Frontend**       | React.js, JavaScript, HTML, CSS |
+| **Backend**        | Node.js, Express.js             |
+| **Database**       | MongoDB                         |
+| **Mobile**         | React Native                    |
+| **Authentication** | Firebase, JWT                   |
+| **Real-time**      | Socket.io                       |
+| **Tools**          | Git, GitHub, Vite, npm          |
+| **AI**             | Ollama, Local LLMs              |
+
+---
+
+## 🚀 Projects
+
+### Smart Skill Hub
+
+A learning platform designed for students to access learning resources, practice coding, and manage their learning activities from one place.
+
+**Focus:** React · Node.js · MongoDB · AI · Learning Platform
+
+---
+
+### ResumeAI
+
+An AI-assisted application focused on helping users create, improve, and work with resumes.
+
+**Focus:** AI · Full Stack Development · Resume Tools
+
+---
+
+### Student Community Platform
+
+A full-stack platform for students to share notes and resources, communicate, and access academic content.
+
+**Focus:** React · Node.js · MongoDB · Firebase · Socket.io
+
+---
+
+### Full Stack Applications
+
+Building and experimenting with applications involving:
+
+* REST APIs
+* Authentication
+* Database integration
+* Real-time communication
+* File handling
+* Responsive interfaces
+* Admin dashboards
+
+---
+
+## 📱 Exploring
+
+Currently exploring **React Native** to build applications for Android and iOS using a shared development approach.
+
+I'm also experimenting with **local AI models and LLM tooling** using technologies such as Ollama.
+
+---
+
+## 🎯 Current Focus
 
 ```text
-Frontend     → React.js, JavaScript, HTML, CSS
-Backend      → Node.js, Express.js
-Database     → MongoDB
-Mobile       → React Native
-Authentication → Firebase / JWT
-Real-time    → Socket.io
-Tools        → Git, GitHub, Vite, VS Code
-AI           → Ollama, Local LLMs
+01  Full Stack Development
+02  React & JavaScript
+03  Backend & REST APIs
+04  MongoDB & Database Design
+05  React Native
+06  AI-powered Applications
+07  Software Engineering Practices
 ```
 
-## Current Focus
+---
 
-I'm currently focused on becoming a stronger **Full Stack Developer** by building real projects, learning modern development practices, and exploring AI integration in applications.
-
-## GitHub
-
-I use this profile to document my projects, experiments, learning, and development work.
-
-**Building • Learning • Improving**
-
-
-
+<div align="center">
 
 <hr>
 
@@ -72,7 +128,11 @@ I use this profile to document my projects, experiments, learning, and developme
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sampatakumar&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="sampatakumar heatmap" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="Sampatakumar GitHub contribution graph" />
 </picture>
+
+<br><br>
+
+<sub>Building projects · Learning technologies · Improving through practice</sub>
 
 </div>
