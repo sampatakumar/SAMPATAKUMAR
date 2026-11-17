@@ -1,23 +1,8 @@
 <div align="center">
 
-<h3><code>sampatakumar@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td width="42%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=sampatakumar&theme=aurora&style=terminal&mode=dark" width="100%" alt="Sampatakumar portrait" />
-</picture>
-</td>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=sampatakumar&theme=aurora&style=terminal&label=sampatakumar&mode=dark" width="100%" alt="Sampatakumar wordmark" />
-</picture>
-</td>
-</tr>
-</table>
+
+
 
 <p>
 <a href="https://github.com/sampatakumar"><img src="https://img.shields.io/badge/GitHub-sampatakumar-181717?style=flat&logo=github" alt="GitHub" /></a>
